@@ -1,4 +1,4 @@
-# Home-Loan-Data_Power-BI
+# Analyzing-Home-Loan-Data_Power-BI
 <img width="823" height="655" alt="image" src="https://github.com/user-attachments/assets/d5a90e3d-c219-46cb-9510-5b646a2c4ffc" />
 
 
