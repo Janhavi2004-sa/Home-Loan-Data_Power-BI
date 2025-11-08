@@ -12,7 +12,7 @@ Relationships were created as follows:
 3.	Customer → Sanction Data via Customer Number
 4.	Customer → Branch via Branch Code
 5.	Customer → Recovery Data via Customer Number
-6.	
+   
 The model diagram shows a star schema connecting fact and dimension tables.
 
 ________________________________________
@@ -59,6 +59,7 @@ ________________________________________
 Added interactive Slicers for Gender, and Branch Name: 
 
 •	Gender→ Customers[Gender] 
+
 •	Branch Name→ Branch Data[Branch Name] 
 
 All visuals update dynamically when filters are applied, enhancing user interaction.
